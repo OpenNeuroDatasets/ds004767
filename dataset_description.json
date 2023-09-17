@@ -52,8 +52,6 @@
         "University of Pennsylvania IRB (Exempt)"
     ],
     "DatasetDOI": "10.18112/openneuro.ds003417.v1.0.1",
-    "ReferencesAndLinks": [
-        "https://www.biorxiv.org/content/10.1101/2021.01.15.421909v1"
-    ],
+    "ReferencesAndLinks": [],
     "Acknowledgements": "We gratefully acknowledge the generosity and altruism of the brain donors and their families. We thank the members of the brain banks at the University of Pennsylvania Center for Neurodegenerative Disease Research and at the University of Castilla La Mancha at Albacete for their contributions to this research."
 }
