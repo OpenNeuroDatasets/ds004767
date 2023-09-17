@@ -9,13 +9,14 @@ Subject-level data --- Raw MRI images at 9.4T
 
 sub-{id}/anat
 
-Manual segmentations in axis-aligned image space 
+Subject-level manual segmentations and MRI images in axis-aligned space:
 
 derivatives/manual_segmentation/sub-{id}
 
-Subject-level MRI and manual segmentations resliced to template space, and where present, reconstructed histological data in template space:
+Subject-level MRI and manual segmentations warped to template space, and where applicable, the reconstructed histological data in template space:
 
 derivatives/template /sub-{id}
-Group-level data --- Average burden and frequency maps in template space (Figure 7):
 
-derivatives/historecon-tempspace/template
+Template --- average burden and frequency maps in template space:
+
+derivatives/template
