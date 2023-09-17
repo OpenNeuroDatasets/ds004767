@@ -33,7 +33,9 @@
         "Paul A. Yushkevich"
     ],
     "HowToAcknowledge": "",
-    "Funding": [],
+    "Funding": [
+        "NIH Grants R01 AG056014, RF1 AG069474, P30 AG072979, P01 AG066597 and U19 AG062418, by MultiPark - A Strategic Research Area at Lund University and a UCLM research grant to the Human Neuroanatomy Laboratory."
+    ],
     "EthicsApprovals": [
         "University of Pennsylvania IRB (Exempt)"
     ],
