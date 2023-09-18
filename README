@@ -17,6 +17,6 @@ Subject-level MRI and manual segmentations warped to template space, and where a
 
     derivatives/template /sub-{id}
 
-Template --- average burden and frequency maps in template space:
+In template space - average MRI image and consensus MTL subregion segmentation, average NFT burden map and frequency maps computed across all 25 specimens, and average NFT burden maps computed separately for low and high Braak cases (Figure 2)
 
-  derivatives/template
+    derivatives/template/template
