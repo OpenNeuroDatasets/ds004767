@@ -7,16 +7,16 @@ BIDS Directory Structure
 
 Subject-level data --- Raw MRI images at 9.4T 
 
-sub-{id}/anat
+    sub-{id}/anat
 
 Subject-level manual segmentations and MRI images in axis-aligned space:
 
-derivatives/manual_segmentation/sub-{id}
+    derivatives/manual_segmentation/sub-{id}
 
 Subject-level MRI and manual segmentations warped to template space, and where applicable, the reconstructed histological data in template space:
 
-derivatives/template /sub-{id}
+    derivatives/template /sub-{id}
 
 Template --- average burden and frequency maps in template space:
 
-derivatives/template
+  derivatives/template
